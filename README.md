@@ -1,0 +1,2 @@
+# Katamino
+Katamino solver
